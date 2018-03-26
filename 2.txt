@@ -1,0 +1,1 @@
+f\left( z,m,\sigma  \right) =\frac { 1 }{ \sqrt { 2\cdot \pi  } \cdot { \sigma  } } exp(\frac { -{ (z-{ m }) }^{ 2 } }{ 2\cdot { \sigma  }^{ 2 } } )
